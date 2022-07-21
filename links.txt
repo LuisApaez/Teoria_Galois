@@ -6,3 +6,6 @@ https://discord.gg/h5CR7KBX
 
 Página web
 https://sites.google.com/view/cursospropeduticos/inicio
+
+
+https://colab.research.google.com/drive/1HL_UzZyy6MZfOOQGy-XlUlmMK_y_nbuw?usp=sharing
